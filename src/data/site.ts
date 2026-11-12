@@ -11,10 +11,10 @@ export const REPO_URL = "https://github.com/mohamedamine-code/prayer_TN";
 export const RELEASES_URL = `${REPO_URL}/releases`;
 export const ISSUES_URL = `${REPO_URL}/issues`;
 
-export const RELEASE_VERSION = "1.0.2";
+export const RELEASE_VERSION = "1.1.0";
 export const DOWNLOAD_URL =
-  "https://github.com/mohamedamine-code/prayer_TN/releases/download/untagged-d2b725ae9e4728e5afb1/Salati-Tunisia-Setup-1.0.2.exe";
-export const INSTALLER_FILE = "Salati-Tunisia-Setup-1.0.2.exe";
+  "https://github.com/mohamedamine-code/prayer_TN/releases/download/v1.1.0/Salati-Tunisia-Setup-1.1.0.exe";
+export const INSTALLER_FILE = "Salati-Tunisia-Setup-1.1.0.exe";
 
 export const HERO_EYEBROW = "Made for Tunisia 🇹🇳";
 
